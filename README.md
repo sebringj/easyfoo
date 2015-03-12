@@ -17,6 +17,10 @@ EasyFoo doesn't care where you serve your content because its just JSON feeds.
 
 Use JSON to specify your editor for different types of content. Edit a collection or a single item.
 
+## Multiple Users
+
+We've got a nice way to invite others through invitations using oauth 2.0.
+
 ## Versioning built in
 
 Don't worry if you shit the bed. You've got versions, hun.
