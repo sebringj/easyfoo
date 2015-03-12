@@ -1,0 +1,6 @@
+#omit node_modules
+node_modules/*
+
+#omit config
+config/*
+!config/default.js
