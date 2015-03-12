@@ -1,2 +1,2 @@
 # easyfoo
-CMS completely rethought for the modern web
+CMS completely rethought for the web and apps of today
