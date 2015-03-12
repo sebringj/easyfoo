@@ -23,6 +23,6 @@ Don't worry if you shit the bed. You've got versions, hun.
 
 ## Batches too, Biyatch
 
-Want to serve that holiday greeting around the right time or launch that product campaign between here and there. You go it, bro.
+Want to serve that holiday greeting around the right time or launch that product campaign between here and there. You got it, bro.
 
 Don't make it hard. Make it easy, foo.
