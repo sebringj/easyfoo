@@ -21,6 +21,10 @@ Use JSON to specify your editor for different types of content. Edit a collectio
 
 We've got a nice way to invite others through invitations using oauth 2.0.
 
+## Multi-tennant
+
+An account holds all the content for a given set of users and you can add as many accounts as you like.
+
 ## Versioning built in
 
 Don't worry if you shit the bed. You've got versions, hun.
