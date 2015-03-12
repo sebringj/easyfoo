@@ -7,7 +7,7 @@ EasyFoo is different because its focus is on being an API first, consumable in a
 
 This idea spawned out of a need to quickly build websites in any server-side technology that can pull in JSON feeds from an always-on CDN.
 
-The creator of KitGUI.com has come together with SebringCreative to offer an open source version completely rebuilt from the ground up on Node.js, MongoDB and client-side JavaScript. The idea has been battle tested in hundreds of production websites. 
+The creator of KitGUI has come together with Sebring Creative to offer an open source version completely rebuilt from the ground up on Node.js, MongoDB and client-side JavaScript. The idea has been battle tested in hundreds of production websites. 
 
 ## Consumable on Websites and Apps
 
