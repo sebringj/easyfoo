@@ -35,7 +35,7 @@ An account holds all the content for a given set of users and you can add as man
 
 Don't worry if you shit the bed. You've got versions, hun.
 
-## Batches too, Biyatch
+## Scheduling content, check.
 
 Want to serve that holiday greeting around the right time or launch that product campaign between here and there. You got it, bro. Scheduling is built in.
 
