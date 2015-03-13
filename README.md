@@ -3,7 +3,9 @@
 CMS completely reimagined
 
 ## WTF another CMS?
-EasyFoo is different because its focus is on being an API first, consumable in any technology with an optional front-end JavaScript plugin to enable editing directly on web pages.
+EasyFoo is different because its focus is on being an API first for developers and designers, consumable in any technology with an optional front-end JavaScript plugin to enable editing directly on web pages.
+
+Developers know how to define templates and designers know what things should look like. EasyFoo never dictates this and is always a JSON data feed that can be easily consumed.
 
 This idea spawned out of a need to quickly build websites in any server-side technology that can pull in JSON feeds from an always-on CDN.
 
