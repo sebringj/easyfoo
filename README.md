@@ -5,9 +5,13 @@ CMS completely reimagined
 ## WTF another CMS?
 EasyFoo is different because its focus is on being an API first for developers and designers, consumable in any technology with an optional front-end JavaScript plugin to enable editing directly on web pages.
 
-Developers know how to define templates and designers know what things should look like. EasyFoo never dictates this and is always a JSON data feed that can be easily consumed.
-
-This idea spawned out of a need to quickly build websites in any server-side technology that can pull in JSON feeds from an always-on CDN.
+- Pure JSON data feeds for consuming content never dicating look and feel
+- Quickly define new types of content editors via JSON
+- Directly edit on the web pages consuming it
+- Multi-tennant for your clients
+- Users span across accounts
+- Versions and Scheduling built in
+- Served from an always-on CDN of your choice for high reliability
 
 The creator of [KitGUI](https://kitgui.com) has come together with [Sebring Creative](http://www.sebringcreative.com) to offer an open source version completely rebuilt from the ground up on Node.js, MongoDB and client-side JavaScript. The idea has been battle tested in hundreds of production websites. 
 
@@ -33,6 +37,6 @@ Don't worry if you shit the bed. You've got versions, hun.
 
 ## Batches too, Biyatch
 
-Want to serve that holiday greeting around the right time or launch that product campaign between here and there. You got it, bro.
+Want to serve that holiday greeting around the right time or launch that product campaign between here and there. You got it, bro. Scheduling is built in.
 
 Don't make it hard. Make it easy, foo.
