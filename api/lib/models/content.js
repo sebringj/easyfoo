@@ -8,7 +8,10 @@ var schema = new mongoose.Schema({
 	versions: [{
 		data: mongoose.Schema.Types.Mixed,
 		created: Date,
-		author: {type : mongoose.Schema.Types.ObjectId, ref : 'User'},
+		author: {
+			type: mongoose.Schema.Types.ObjectId,
+			ref: 'User'
+		},
 		batchFrom: Date,
 		batchTo: Date
 	}],
