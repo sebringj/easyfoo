@@ -4,7 +4,10 @@ var schema = new mongoose.Schema({
 	name: String,
 	created: Date,
 	users: [{
-		userId: {type : mongoose.Schema.Types.ObjectId, ref : 'Account'},
+		userId: {
+			type: mongoose.Schema.Types.ObjectId,
+			ref: 'Account'
+		},
 		added: Date,
 		role: String
 	}]
