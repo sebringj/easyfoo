@@ -1,6 +1,6 @@
 # EasyFoo Server Plugins
 
-CMS completely reimagined
+This contains links to the github repos of server-side plugins compatible with EasyFoo
 
 ## Node.js / io.js NPM
 
