@@ -1,14 +1,14 @@
 # EasyFoo Client Plugins
 
-This contains the functionality for supported client-side JavaScript scenarios
+This contains links to the github repose for supported client-side JavaScript scenarios/frameworks
 
 ## Vanilla JavaScript Plugin
 
-This supports plain JavaScript with no dependancies and is AMD/CommonJS/jQuery compatible
+TODO: This supports plain JavaScript with no dependancies and is AMD/CommonJS/jQuery compatible
 
 ## AngularJS 
 
-This supports AngularJS (todo possibly?)
+TODO: This supports AngularJS (todo possibly?)
 
 ## Others?
 
