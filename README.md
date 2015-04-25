@@ -39,4 +39,4 @@ Don't worry if you shit the bed. You've got versions, hun.
 
 Want to serve that holiday greeting around the right time or launch that product campaign between here and there. You got it, bro. Scheduling is built in.
 
-Don't make it hard. Make it easy, foo.
+Don't make it hard. Make it easy, foo!
